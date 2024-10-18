@@ -1,0 +1,21 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: cyan;
+    font-weight: 800px;
+    font-size: large;
+    color: brown;
+}
+p::first-letter{
+    color: yellow;
+    font-size: 50px;
+}
+img{
+    width: 500px;
+    height: 150px;
+    position: sticky;
+    top: 1px;
+    left: 20px;
+}
+p{
+    opacity: 0.5;
+}
